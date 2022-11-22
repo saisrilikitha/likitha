@@ -1,0 +1,7 @@
+sno=int(input('enter student no'))
+name=input('enter student name')
+group=input('enter group')
+s1=int(input('enter maths:'))
+s2=int(input('enter chemistry:'))
+total=s1+s2
+print('total:',total)
